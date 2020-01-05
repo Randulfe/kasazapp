@@ -31,8 +31,10 @@ For the frontend automated testing:
 -	Responsiveness. 
 -	REST filter search (simultaneous search without the need of submitting a form)
 
-**DEMO:**
+#### DEMO:
 These are just some pictures demonstrating the functionality of the app.
+
+
 ![Demo1](https://github.com/Randulfe/kasazapp/blob/master/demo/demo1.jpg)
 ![Demo2](https://github.com/Randulfe/kasazapp/blob/master/demo/demo2.png) 
 ![Demo3](https://github.com/Randulfe/kasazapp/blob/master/demo/demo3.jpg) 

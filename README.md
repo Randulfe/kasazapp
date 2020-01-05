@@ -34,8 +34,8 @@ For the frontend automated testing:
 **DEMO:**
 These are just some pictures demonstrating the functionality of the app.
 ![Demo1](https://github.com/Randulfe/kasazapp/blob/master/demo/demo1.jpg)
-![Demo2](https://github.com/Randulfe/kasazapp/blob/master/demo/demo2.jpg) 
+![Demo2](https://github.com/Randulfe/kasazapp/blob/master/demo/demo2.png) 
 ![Demo3](https://github.com/Randulfe/kasazapp/blob/master/demo/demo3.jpg) 
 ![Demo4](https://github.com/Randulfe/kasazapp/blob/master/demo/demo4.jpg) 
 ![Demo5](https://github.com/Randulfe/kasazapp/blob/master/demo/demo5.jpg) 
-![Demo6](https://github.com/Randulfe/kasazapp/blob/master/demo/demo6.jpg) 
+![Demo6](https://github.com/Randulfe/kasazapp/blob/master/demo/demo6.png) 

@@ -1,0 +1,19 @@
+{
+  "name": "kasaz",
+  "version": "1.0.0",
+  "description": "Project for the coding challenge of kasaz",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mateo Gomez-Randulfe",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "multer": "^1.4.2",
+    "nodemon": "^2.0.2",
+    "uuid": "^3.3.3"
+  }
+}

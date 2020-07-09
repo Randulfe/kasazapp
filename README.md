@@ -1,5 +1,9 @@
 # Coding Challenge for Kasaz
 
+React and Node.js application built for a job interview in less than one day (in kind of a hurry) which basically searches with different filters the type of flats and houses for buying in Barcelona. 
+
+# Instruction 
+
 ## Set Up Guide
 
 **Supported browsers:** Chrome, Safari, Firefox, Opera
@@ -31,7 +35,7 @@ For the frontend automated testing:
 -	Responsiveness. 
 -	REST filter search (simultaneous search without the need of submitting a form)
 
-#### DEMO:
+# Outcome:
 These are just some pictures demonstrating the functionality of the app.
 
 
@@ -41,3 +45,9 @@ These are just some pictures demonstrating the functionality of the app.
 ![Demo4](https://github.com/Randulfe/kasazapp/blob/master/demo/demo4.jpg) 
 ![Demo5](https://github.com/Randulfe/kasazapp/blob/master/demo/demo5.jpg) 
 ![Demo6](https://github.com/Randulfe/kasazapp/blob/master/demo/demo6.png) 
+
+### License
+
+MIT License
+
+Copyright (c) 2020 Mateo Randulfe

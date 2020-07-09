@@ -1,6 +1,6 @@
 # Coding Challenge for Kasaz
 
-React and Node.js application built for a job interview in less than one day (in kind of a hurry) which basically searches with different filters the type of flats and houses for buying in Barcelona. 
+React, Node.js and Bootstrap 4 application built for a job interview in less than one day (in kind of a hurry) which basically searches with different filters the type of flats and houses for buying in Barcelona. 
 
 # Instruction 
 
